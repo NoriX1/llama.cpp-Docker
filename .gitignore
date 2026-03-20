@@ -1,0 +1,6 @@
+models/
+.env
+logs/
+vendor/llama.cpp/build/
+__pycache__/
+*.pyc
